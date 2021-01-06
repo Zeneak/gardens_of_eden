@@ -1,8 +1,60 @@
 {
     "name": "",
     "player": "",
+    "meta": {
+        "health": 0,
+        "armor": 0,
+        "stability":0,
+        "resolve":0,
+        "credibility":0,
+        "grace":0,
+        "speed":0,
+        "initiative":0
+
+    },
     "attributes": {
-        "strength": 0,
-        "dexterity": 0
+        "might": 0,
+        "mobility": 0,
+        "intellect": 0,
+        "instinct": 0,
+        "personality": 0,
+        "poise": 0
+    },
+    "physical": {
+        "acrobatics":0,
+        "athletics":0,
+        "fabrication":0,
+        "fortitude":0,
+        "larceny":0,
+        "marksman":0,
+        "melee":0,
+        "stealth":0
+    },
+    "mental": {
+        "academics":0,
+        "awareness":0,
+        "determination":0,
+        "engineering":0,
+        "investigation":0,
+        "mysticism":0,
+        "navigation":0,
+        "survival":0
+    },
+    "social": {
+        "carousing":0,
+        "composure":0,
+        "deception":0,
+        "expression":0,
+        "insight":0,
+        "intimidation":0,
+        "persuasion":0,
+        "theatrics":0
+    },
+    "abilities": {
+
+    },
+    "inventory": {
+        "credits":0
     }
+
 }
